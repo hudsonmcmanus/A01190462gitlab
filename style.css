@@ -1,0 +1,19 @@
+.flex {
+    display: block;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .container {
+    height: 90vh;
+  }
+
+  li:hover {
+    cursor: pointer;
+  }
+
+  td {
+    padding-right: 20px;
+    padding-bottom: 7px;
+  }
+  
