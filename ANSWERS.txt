@@ -3,16 +3,19 @@
 	2. cd desktop
 
 	3. cd HudsonMcManus_movielist
+
+	4. git init
 	
-	4. git add index.html
+	5. git add index.html
 	
-	5. git add app.js
+	6. git add app.js
 	
-	6. git add style.css
+	7. git add style.css
 	
-	7. git commit -m "First Commit"
+	8. git commit -m "First Commit"
 	
-	8. git remote add origin https://github.com/hudsonmcmanus/A01190462gitlab.git
+	9. git remote add origin https://github.com/hudsonmcmanus/A01190462gitlab.git
 	
-	9. git push -u origin master
+	10. git push -u origin master
+
 
