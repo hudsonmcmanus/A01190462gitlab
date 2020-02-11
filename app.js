@@ -1,6 +1,5 @@
-
+//Global list for the history so it isnt reset by accident
 var historyList = [];
-
 //This appends the movie to the movie list
 function appendToList() {
   var inputText = document.getElementById("text").value;
